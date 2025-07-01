@@ -1,0 +1,2 @@
+First time using Git. 
+Cursor. Did not explore more.
