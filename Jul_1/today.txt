@@ -1,0 +1,5 @@
+What i learn today is how to install erlang, elixir, posgreSQL and node.js.
+I learn that a little mistake can make us to install the application again.
+I also learn how to ask chatGPT if i need to ask something. 
+Also thanks to my friends and sir that keep helping me when i did not know why that error occur.
+And of course I need to catch up faster than before. 
