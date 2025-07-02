@@ -1,1 +1,3 @@
-Yesterday, during classes, I learn about 
+Yesterday, during classes, I learn how to install elixir, erlang, postgresql and codejs
+Before going home, sir tell us what we will do tomorrow which is how to send files from our computer to Git Hub.
+Jadi, kami cuba di rumah dan saya dapati cara kami agak sukar berbanding apa yang sir ajarkan keesokan harinya.

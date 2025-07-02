@@ -1,1 +1,4 @@
+Hari ini, saya belajar tentang bagaimana cara untuk memindahkan fail ke Git Hub.
+Saya juga banyak menggunakan Chat GPT untuk membantu saya dalam perkara yang saya tidak ketahui dan untuk belajar benda -benda baru.
+Saya juga belajar cara untuk membuat menggunakan mix phx.gen.live
 
