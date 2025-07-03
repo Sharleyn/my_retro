@@ -1,1 +1,3 @@
-
+harini saya berlatih presentation dan cuba buat website menggunakan generator mix phx.gen.life
+Apa yang boleh saya simpulkan sehingga petang ini adalah mix phx.gen.life dapat memudahkan kerja kita kerana dia memberi arahan untuk pheonix kumpul data CRUD untuk website yang akan kita buat nanti
+Saya juga 

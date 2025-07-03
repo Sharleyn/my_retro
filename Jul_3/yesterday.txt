@@ -1,1 +1,4 @@
-
+Pada hari kemarin, saya melakukan self study dan dibantu oleh chatgpt
+Saya belajar mengenai cara menggunakan mix phx.gen.live untuk membuat website
+Saya juga belajar mengenai ecto.migrate di mana arahan ini adalah untuk membuat table atau jadual bagi website saya.
+Saya juga berbincang bersama rakan rakan saya untuk saya lebih memahami apa yang telah kami pelajari.
