@@ -1,0 +1,2 @@
+waktu belajar mix phx.gen.migration, saya buat banyak error yang sama
+

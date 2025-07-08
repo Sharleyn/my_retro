@@ -1,0 +1,4 @@
+Saya menyiapkan presentation mengenai CRUD under "DELETE"
+Saya belajar mengenai mix phx.gen.migrations
+Belajar mengenai delete
+Saya masih belajar untuk Create, Read, Update
