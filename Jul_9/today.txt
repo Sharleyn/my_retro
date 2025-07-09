@@ -1,0 +1,3 @@
+Hari ini saya belajar tentang pattern matching which is ada condition dalam suatu function
+Saya juga belajar mengenai PIPE iaitu seperti sambungan untuk menyambungkan dua ayat
+

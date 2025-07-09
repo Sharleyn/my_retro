@@ -1,0 +1,3 @@
+kemarin saya belajar mengenai mix ecto.gen.migration
+Saya juga belajar cara bagaimana untuk ubah user interface 
+
