@@ -1,0 +1,2 @@
+dekat coding, walaupun saya copy paste sir punya code, tetap salah sebab nama file saya tidak sama dengan nama dalam account.ex saya
+dekat button dalam user interface, which is bmi calculator, lepas tekan saya tidak dapat masuk ke dalam bmi calculator

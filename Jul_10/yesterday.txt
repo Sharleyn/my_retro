@@ -1,0 +1,3 @@
+Kemarin kami study mengenai pattern matching dan PIPE
+Siapkan presentation mengenai data types
+
