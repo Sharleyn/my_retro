@@ -1,0 +1,3 @@
+Kemarin kami membuat presentation mengenai basic types. 
+Kami juga mencuba untuk membuat BMI Calculation dan IC Info.
+
