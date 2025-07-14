@@ -1,0 +1,2 @@
+Hari ini saya belajar mengenai css, html dan tailwind css.
+Ini penting untuk website yang akan kami lakukan.
