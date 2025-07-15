@@ -1,0 +1,4 @@
+Hari ini saya belajar mengenai belong to dan has many relationship dan cara implement dalam cursor (relationship database)
+foreign key = reference 
+
+
