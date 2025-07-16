@@ -1,2 +1,2 @@
-Blocking hari ini saya lambat progress even ada contoh sir
-Masih tidak faham betul mengenai 
+Blocking hari ini saya lambat progress even ada contoh sir 
+Masih tidak faham betul mengenai preload dan relationship database
