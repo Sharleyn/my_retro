@@ -1,0 +1,2 @@
+Hari ini, kami study pasal enumerable which is enum.
+Kami buat pembentangan enum.map, enum.filter, enum.reduce dan lain lain
