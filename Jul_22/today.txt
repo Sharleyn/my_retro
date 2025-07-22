@@ -1,0 +1,1 @@
+Hari ini buat mix phx.gen.schema untuk profile

@@ -1,0 +1,2 @@
+Hari ini belajar mengenai authentication. 
+Penting untuk secure data dan mengelakkan daripada kena hack.
