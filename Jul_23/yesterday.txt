@@ -1,0 +1,2 @@
+Kemarin bincang mengenai phg.gen.schema di mana di dalam button setting kena letak profile untuk pengguna.
+Masih on the progress juga.
