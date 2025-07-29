@@ -1,0 +1,2 @@
+ Kemarin blocking bahagian side bar berada di center page. Belajar mengenai cara buat side bar di liveview
+ 
