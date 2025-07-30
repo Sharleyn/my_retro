@@ -1,0 +1,3 @@
+ blocking saya waktu buat delete dengan edit
+ lepas filter admin, dia terpapar untuk 1 page sahaja
+ Buat file baru untuk kursus_live.ex. Terdouble table . 
