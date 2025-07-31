@@ -1,0 +1,10 @@
+ Hari ini buat search bar tapi saya buat dalam admin dashboard sahaja. Kawan kawan saya buat bahagian account.ex .
+ Saya rasa saya salah sebab mungkin kalau buat dalam dashboard sahaja, saya rasa kena buat manual juga nanti kalau mahu buat dekat tempat lain.
+ Kalau dekat account.ex, nanti tinggal panggil sahaja di mana mana fail yang berkaitan. 
+ 
+ Saya juga ganti kepada database untuk data data yang saya masukkan ke dalam live view.
+ Sebelum ini saya guna dummy data.
+
+ Saya ada tambah dua migration hari ini iaitu name dan status sebab sebelum ni guna dummy data sahaja.
+
+ Hari ini juga buat documentation untuk search bar. 

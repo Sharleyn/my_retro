@@ -1,0 +1,4 @@
+ Blocking hari ini banyak. Salah satunya adalah sewaktu saya mahu tukarkan dari dummy data kepada database yang sebenarnya.
+ Selepas itu, table ada tapi data bahagian nama dan status tiada. 
+ Blocking bahagian mahu besarkan jadual supaya dia fit to screen 
+ Saya juga blocking sewaktu buat documentation. Disebabkan terlalu menggunakan chatgpt, saya tidak tahu mahu buat documentation supaya documentation itu lebih difahami.
