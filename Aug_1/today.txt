@@ -1,0 +1,3 @@
+ Hari ini saya buat figma untuk login dan register page
+ Saya juga buat figma untuk borang pendaftaran kursus 
+ Saya juga cuba untuk buat dashboard admin di figma melalui rujukan lovable
