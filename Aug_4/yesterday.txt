@@ -1,0 +1,2 @@
+ Kemarin study ERD untuk projek Kami
+Ulangkaji sikit mengenai cursor which is liveview based app dan controller based app
