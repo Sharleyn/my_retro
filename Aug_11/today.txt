@@ -1,0 +1,3 @@
+ Hari ini saya buat figma bahagian admin panel
+ Hari ini juga ada sesi perkongsian daripada Onel mengenai cara cara untuk dapatkan code html dan tailwind css daripada figma
+ Saya juga cuba buat plug in tersebut 
