@@ -1,0 +1,3 @@
+ Hari ini saya pindahkan homepage dari figma kepada coding 
+ Saya juga pindahkan admin dashboard kepada coding melalui plug ini
+ Saya juga tambah sidebar elaun pekerja 
